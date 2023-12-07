@@ -1,5 +1,5 @@
 const {MongoClient} = require('mongodb');
-const uri = "mongodb+srv://mxpotatosred123:vK4gPpzmrpajJqNm@test.1snikq1.mongodb.net/?retryWrites=true&w=majority";
+const uri = `mongodb+srv://mxpotatosred123:vK4gPpzmrpajJqNm@test.1snikq1.mongodb.net/?retryWrites=true&w=majority`;
 
 const client = new MongoClient(uri);
 
@@ -8,6 +8,8 @@ async function conectar() {
 
   try {
     await client.connect();
+
+    //Aqui ele vai retornar a conexao
     return client.db("redesocial"); 
     
   } catch (error) {
