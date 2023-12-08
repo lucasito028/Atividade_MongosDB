@@ -1,18 +1,24 @@
 # Atividade_MongosDB-
 <h2>Manipulação de Dados com MongosDB</h2> 
 <br>
-<h3>Agregação</h3>
-<h3>Atualização Condicional<h3>
-<h3>Índices</h3> 
-<h3>Transações</h3>
+<h3>- Agregação</h3>
+<h3>- Atualização Condicional<h3>
+<h3>- Índices</h3> 
+<h3>- Transações</h3>
 
 <h2>Primeira coisa: Tome cuidado pois se der erro na conecao é por que o MongosDb/Atlas ele "fecha" a conecao ai eu tenho que autorizar denovo quem deve acessar o banco de dados.</h2>
 
-Por que usei Node.Js
+<h3>Por que usei Node.Js</h3>
 1. Facilidade de aprendizado <br>
 2. Mais facil de configurar <br>
 3. Versatilidade de ambiente <br>
 4. Aprendizado de NodeJs <br>
+<br>
+<h3>Por que usei Atlas MongosDb</h3>
+1. Facilidade de aprendizado <br>
+2. Mais facil de configurar <br>
+3. Versatilidade de ambiente <br>
+4. Visualmente falando é mais bonito que o Terminal <br>
 
 <h3>Arquivos</h3>
 - testeparabanco.js - Só serve para esconder o banco de dados e testar <br>
