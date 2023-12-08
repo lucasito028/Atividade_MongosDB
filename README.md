@@ -31,8 +31,8 @@ Resumindo: Esse código em JavaScript usa o pacote mongodb para conectar-se a um
 <br>
 Mais detalhes apenas abrir o arquivo dentro do models "pasta: models" e abrir o testeparabanco.js
 <br>
-Como instalei:
-3 - npm install mongodb
+Como instalei:<br>
+Terceiro - npm install mongodb
 <br>
 <br>
 <h3>insercoes.js - Só para inserir Mais dados</h3>
