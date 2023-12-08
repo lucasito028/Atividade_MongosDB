@@ -6,7 +6,7 @@
 <h3>- Índices</h3> 
 <h3>- Transações</h3>
 
-<h2>Primeira coisa: Tome cuidado pois se der erro na conecao é por que o MongosDb/Atlas ele "fecha" a conecao ai eu tenho que autorizar denovo quem deve acessar o banco de dados.</h2>
+<h3>Primeira coisa: Tome cuidado pois se der erro na conecao é por que o MongosDb/Atlas ele "fecha" a conecao ai eu tenho que autorizar denovo quem deve acessar o banco de dados.</h3>
 
 <h3>Por que usei Node.Js</h3>
 1. Facilidade de aprendizado <br>
