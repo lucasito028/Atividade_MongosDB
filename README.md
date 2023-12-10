@@ -8,11 +8,18 @@
 
 <h3>Primeira coisa: Tome cuidado pois se der erro na conecao é por que o MongosDb/Atlas ele "fecha" a conecao ai eu tenho que autorizar denovo quem deve acessar o banco de dados.</h3>
 
+<h3>Fontes para esse projeto:</h3>
+Documentação Node JS:https://www.mongodb.com/languages/javascript<br>
+ChatGTP<br>
+Claude 2 AI<br>
+
+
 <h3>Por que usei Node.Js</h3>
 1. Facilidade de aprendizado <br>
 2. Mais facil de configurar <br>
 3. Versatilidade de ambiente <br>
 4. Aprendizado de NodeJs <br>
+5. Mais integrado com o Mongo do que o PHP <br>
 <br>
 <h3>Por que usei Atlas MongosDb</h3>
 1. Facilidade de aprendizado <br>
@@ -32,7 +39,10 @@ Resumindo: Esse código em JavaScript usa o pacote mongodb para conectar-se a um
 Mais detalhes apenas abrir o arquivo dentro do models "pasta: models" e abrir o testeparabanco.js
 <br>
 Como instalei:<br>
-Terceiro - npm install mongodb
+Primeiro - Ter o NodeJs instalado<br>
+Segundo - Criar um diretorio<br>
+Terceiro - No GitBash ou no CMD digitar no mesmo diretorio: npm init -y criando um ``arquivo package.json`<br>
+Quarto - No mesmo diretorio digitar: npm install mongodb<br>
 <br>
 <br>
 <h3>insercoes.js - Só para inserir Mais dados</h3>
